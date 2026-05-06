@@ -102,7 +102,7 @@
 
 - **Lighthouse Snapshot:**
 
-  ![Lighthouse Accessibility Score — 92](./lighthouse-accessibility.png)
+  ![Lighthouse Accessibility Score — 92](./audit.png)
 
 ---
 
